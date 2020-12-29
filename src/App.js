@@ -1,9 +1,10 @@
-import logo from './logo.svg';
+import Todoapp from './Component/todoapp';
+
 
 function App() {
   return (
     <div>
-      hello
+      <Todoapp/>
     </div>
   );
 }
